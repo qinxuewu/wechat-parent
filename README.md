@@ -1,5 +1,10 @@
 # wechat-parent
 
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-924715723-yellowgreen.svg)](https://jq.qq.com/?_wv=1027&k=5PIRvFq)
+[![码云](https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-yellow.svg)](https://gitee.com/qinxuewu)
+[![Github](https://img.shields.io/badge/Github-Github-red.svg)](https://github.com/a870439570)
+
+
 #### 项目介绍
 基于Spring Cloud微服务化开发平台，核心技术采用Spring Boot2以及Spring Cloud 相关核心组件，前端采用Vue的微信公众号管理系统。
 主要是用于学习使用
